@@ -1,4 +1,9 @@
-### Hi there 👋
+### I am inactive on GitHub because of Copilot
+
+[GitHub Copilot](https://copilot.github.com) is a pair programming AI which feeds off of all public repositories in GitHub. **It is impossible to opt-out of the scrapping of your public repositories by this AI.**
+
+### See me on GitLab
+https://gitlab.com/Diti
 
 <!--
 **Diti/Diti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
